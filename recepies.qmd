@@ -1,0 +1,48 @@
+---
+title: "recepies.qmd"
+format: html
+editor: visual
+---
+
+Different recepies for the whole family...
+
+# Birthday cupcakes 
+
+## ingredients:
+
+- flour
+- baking powder
+- honey
+- chocolate chunks 
+- eggs
+
+## How to make them:
+
+- mix dry ingredients
+- mix wet ingredients
+- fold the dry ingredients in the wet ingredients
+
+- fill dough into forms
+- bake on 170°C for 30 minutes
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
