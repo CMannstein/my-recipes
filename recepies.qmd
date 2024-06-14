@@ -10,20 +10,30 @@ Different recepies for the whole family...
 
 ## ingredients:
 
-- flour
-- baking powder
-- honey
-- chocolate chunks 
-- eggs
+- 125g butter
+- 120g honey
+- 2 eggs
+- 80g cocoa nibs
+- lemon zest from 1 lemon
+- 2 tsp baking powder
+- 300g whole-grain wheat flour
+- 125ml milk
+- 20 muffin tins
 
-## How to make them:
+Optional
+- 150g dark chocolate coating
+- some cake decorations (e.g. lollipops, nuts)
 
-- mix dry ingredients
-- mix wet ingredients
-- fold the dry ingredients in the wet ingredients
 
-- fill dough into forms
-- bake on 170°C for 30 minutes
+## Step by step instructions:
+
+1. Mix butter, honey and eggs until the dough is foamy.
+2. Now add cocoa nibs, lemon zest, baking powder and whole-grain wheat flour.
+3. Add milk gradually until all ingredients are mixed into a dough.
+4. Pre heat oven up to 200 degree Celsius.
+5. Fill dough into muffin tins until half full. You should get 20 muffins.
+6. Bake muffins for 20 to 25 minutes until they are done.
+7. Optional you can decorate the muffins after they are cooled down.
 ---
 
 ## Quarto
