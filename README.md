@@ -5,3 +5,5 @@ It contains different recepies for humans and dogs. I prefere to do my own cooki
 
 Contributing:
 Contributions are always welcome. If you try a recipe and it doesn't work out or you have your own recipe you like to share, I'm looking forward to hear from you.
+
+DOI: 10.5072/zenodo.88053
